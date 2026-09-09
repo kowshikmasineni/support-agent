@@ -1,0 +1,15 @@
+,account_access,app_technical_issue,billing_payment,cancellation,driver_issue,fare_pricing,general_question,lost_item,other,promotion_offer,refund_request,safety_issue,service_availability,trip_issue
+account_access,7,0,2,0,1,0,2,1,0,0,0,1,0,0
+app_technical_issue,1,5,1,0,4,0,2,0,0,0,0,0,0,0
+billing_payment,1,0,2,1,0,0,0,0,0,0,0,0,0,0
+cancellation,0,0,1,5,0,0,0,0,0,0,0,0,0,0
+driver_issue,0,1,2,2,10,0,2,0,0,0,0,0,0,0
+fare_pricing,0,0,2,0,0,1,1,0,0,0,0,0,0,0
+general_question,0,0,0,0,5,0,39,0,0,0,0,0,2,0
+lost_item,0,0,0,0,0,0,2,4,0,0,0,0,0,0
+other,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+promotion_offer,0,1,0,0,0,0,0,0,0,2,1,0,0,0
+refund_request,0,0,0,0,0,0,0,0,0,0,10,0,0,0
+safety_issue,0,0,0,0,2,0,0,2,0,0,0,0,0,1
+service_availability,0,1,0,0,0,0,4,0,0,0,0,0,2,2
+trip_issue,0,0,0,0,3,0,4,0,0,0,1,0,0,0

@@ -1,0 +1,5 @@
+metric,value
+intent_accuracy,0.58
+severity_accuracy,0.36666666666666664
+expected_action_accuracy,0.62
+overall_exact_match_accuracy,0.25333333333333335
